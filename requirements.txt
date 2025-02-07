@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+langchain
+langchain-community
+beautifulsoup4
+playwright
+requests
+python-dotenv
